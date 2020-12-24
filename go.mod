@@ -1,4 +1,4 @@
-module github.com/widmnd/strava-api-v3
+module github.com/widmnd/go-strava-api-v3
 
 go 1.15
 

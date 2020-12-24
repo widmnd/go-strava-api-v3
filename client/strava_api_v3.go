@@ -10,16 +10,16 @@ import (
 	httptransport "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/widmnd/strava-api-v3/client/activities"
-	"github.com/widmnd/strava-api-v3/client/athletes"
-	"github.com/widmnd/strava-api-v3/client/clubs"
-	"github.com/widmnd/strava-api-v3/client/gears"
-	"github.com/widmnd/strava-api-v3/client/routes"
-	"github.com/widmnd/strava-api-v3/client/running_races"
-	"github.com/widmnd/strava-api-v3/client/segment_efforts"
-	"github.com/widmnd/strava-api-v3/client/segments"
-	"github.com/widmnd/strava-api-v3/client/streams"
-	"github.com/widmnd/strava-api-v3/client/uploads"
+	"github.com/widmnd/go-strava-api-v3/client/activities"
+	"github.com/widmnd/go-strava-api-v3/client/athletes"
+	"github.com/widmnd/go-strava-api-v3/client/clubs"
+	"github.com/widmnd/go-strava-api-v3/client/gears"
+	"github.com/widmnd/go-strava-api-v3/client/routes"
+	"github.com/widmnd/go-strava-api-v3/client/running_races"
+	"github.com/widmnd/go-strava-api-v3/client/segment_efforts"
+	"github.com/widmnd/go-strava-api-v3/client/segments"
+	"github.com/widmnd/go-strava-api-v3/client/streams"
+	"github.com/widmnd/go-strava-api-v3/client/uploads"
 )
 
 // Default strava API v3 HTTP client.

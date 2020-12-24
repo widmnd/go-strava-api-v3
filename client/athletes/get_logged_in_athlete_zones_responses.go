@@ -12,7 +12,7 @@ import (
 	"github.com/go-openapi/runtime"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/widmnd/strava-api-v3/models"
+	"github.com/widmnd/go-strava-api-v3/models"
 )
 
 // GetLoggedInAthleteZonesReader is a Reader for the GetLoggedInAthleteZones structure.
